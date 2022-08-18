@@ -1,6 +1,6 @@
 
 
-function media() {
+function calc() {
   const numeroA = Number(prompt("Digite o primeiro número"))
   const numeroB = Number(prompt("Digite o segundo número"))
   const operador = prompt("Digite o segundo número")
@@ -18,7 +18,7 @@ function media() {
   console.log(total)
       
 }
-media()
+calc()
 
 
 
