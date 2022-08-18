@@ -1,7 +1,4 @@
 
-const quantidade = prompt("digite quantos numeros deseja calcular a media", "")
-const numeros = []
-
 
 function media() {
   let acumula = 0
@@ -13,6 +10,8 @@ function media() {
   console.log(acumula/quantidade)
 }
 media()
+
+
 
 
 
